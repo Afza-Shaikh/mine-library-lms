@@ -1,0 +1,44 @@
+[
+  {
+    "title":"python crash course",
+    "author":"Eric Matthes"
+    "publication_year":2019,
+    "genre":"programming",
+    "read_status":Flase,
+    "added_data": "2025-03-15 11:54"
+  },
+  {
+       "title": "Learning Python",  
+    "author": "Mark Lutz",       
+    "publication_year": 2020,   
+    "genre": "Programming",     
+    "read_status": True,   
+    "added_date": "2025-03-16 12:00"
+  },
+  {
+  
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publication_year": 1925,
+    "genre": "Fiction",
+    "read_status": False,
+    "added_date": "2025-03-18 13:00"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publication_year": 1960,
+    "genre": "Fiction",
+    "read_status": True,
+    "added_date": "2025-03-21 15:00"
+  },
+]
+
+
+
+
+
+
+
+  
+]
